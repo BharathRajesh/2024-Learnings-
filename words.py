@@ -1,0 +1,1 @@
+word=["mango","apple","grapes","papaya","banana","cherry","green apple","chiku"]
